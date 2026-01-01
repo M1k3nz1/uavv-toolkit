@@ -1,0 +1,5 @@
+imu fault n=30 px4cpu=13.4 jmavcpu=2.4 px4MB=14 jmavMB=266
+imu gold n=5 px4cpu=14.4 jmavcpu=2.4 px4MB=14 jmavMB=257
+e1 fault n=16 px4cpu=10.1 jmavcpu=1.8 px4MB=11 jmavMB=236
+m2 fault n=40 px4cpu=12.5 jmavcpu=2.3 px4MB=14 jmavMB=307
+m2 gold n=10 px4cpu=12.6 jmavcpu=2.4 px4MB=14 jmavMB=282

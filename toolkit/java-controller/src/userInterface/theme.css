@@ -1,0 +1,13 @@
+
+/* popup menus live in their own window: literal colours (look-ups from .root do not reach them) */
+.context-menu { -fx-background-color: white; -fx-background-radius: 3; -fx-border-color: #d3deea; -fx-border-radius: 3; -fx-padding: 4; -fx-effect: null; }
+.context-menu .menu-item { -fx-background-radius: 3; -fx-padding: 6 18 6 12; }
+.context-menu .menu-item .label { -fx-text-fill: #0f1f2e; -fx-font-size: 13px; }
+.context-menu .menu-item:focused { -fx-background-color: #0e8fa6; }
+.context-menu .menu-item:focused .label { -fx-text-fill: white; }
+/* nested cards (fault forms are loaded into a card) are flattened */
+.card .card {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-effect: null;
+}

@@ -1,0 +1,226 @@
+{
+ "AR_A20.0_f10_r1": [
+  {
+   "reason": "disarmed",
+   "armed": true,
+   "t_flight": 204.42400000000004,
+   "modes": "4>3>18>3",
+   "xtrack_max": 14.570639101192576,
+   "alt_max": 22.383000000000003,
+   "end_dist_home": 2.1147501036963208,
+   "disarmed_in_log": true,
+   "completed": true,
+   "seed": "seed001"
+  }
+ ],
+ "AR_A20.0_f10_r2": [
+  {
+   "reason": "disarmed",
+   "armed": true,
+   "t_flight": 231.10000000000002,
+   "modes": "4>3>18>3",
+   "xtrack_max": 13.49951860718439,
+   "alt_max": 22.601,
+   "end_dist_home": 1.1313490109331006,
+   "disarmed_in_log": true,
+   "completed": true,
+   "seed": "seed001"
+  }
+ ],
+ "AR_A20.0_f10_r3": [
+  {
+   "reason": "timeout",
+   "armed": true,
+   "t_flight": 240.132,
+   "modes": "4>3>18>3",
+   "xtrack_max": 13.53352243233587,
+   "alt_max": 22.214,
+   "end_dist_home": 0.4645870814238327,
+   "disarmed_in_log": false,
+   "completed": false,
+   "seed": "seed001"
+  }
+ ],
+ "AR_A20.0_f10_r4": [
+  {
+   "reason": "timeout",
+   "armed": true,
+   "t_flight": 240.132,
+   "modes": "4>3>18>12>18>3",
+   "xtrack_max": 265.0513165333758,
+   "alt_max": 21.847,
+   "end_dist_home": 265.9370401182071,
+   "disarmed_in_log": false,
+   "completed": false,
+   "seed": "seed001"
+  }
+ ],
+ "FixedNoise_r1": [
+  {
+   "reason": "disarmed",
+   "armed": true,
+   "t_flight": 160.824,
+   "modes": "4>3",
+   "xtrack_max": 60.0318954211401,
+   "alt_max": 20.064999999999998,
+   "end_dist_home": 0.23882876044784418,
+   "disarmed_in_log": true,
+   "completed": true,
+   "seed": "seed001"
+  }
+ ],
+ "FixedNoise_r2": [
+  {
+   "reason": "disarmed",
+   "armed": true,
+   "t_flight": 160.416,
+   "modes": "4>3",
+   "xtrack_max": 59.751805780756904,
+   "alt_max": 20.068999999999996,
+   "end_dist_home": 0.2278830883452576,
+   "disarmed_in_log": true,
+   "completed": true,
+   "seed": "seed001"
+  }
+ ],
+ "FixedNoise_r3": [
+  {
+   "reason": "disarmed",
+   "armed": true,
+   "t_flight": 160.848,
+   "modes": "4>3",
+   "xtrack_max": 59.97370875142047,
+   "alt_max": 20.083999999999996,
+   "end_dist_home": 0.1811600706272544,
+   "disarmed_in_log": true,
+   "completed": true,
+   "seed": "seed001"
+  }
+ ],
+ "FixedNoise_r4": [
+  {
+   "reason": "disarmed",
+   "armed": true,
+   "t_flight": 141.156,
+   "modes": "4>3",
+   "xtrack_max": 60.214659412857614,
+   "alt_max": 20.035999999999994,
+   "end_dist_home": 0.1843237134020103,
+   "disarmed_in_log": true,
+   "completed": true,
+   "seed": "seed001"
+  }
+ ],
+ "RandomNoise_r1": [
+  {
+   "reason": "timeout",
+   "armed": true,
+   "t_flight": 23.244000000000007,
+   "modes": "4>3",
+   "xtrack_max": 0.36554112102018466,
+   "alt_max": 19.702999999999996,
+   "end_dist_home": 21.845008665633497,
+   "disarmed_in_log": false,
+   "completed": false,
+   "seed": "seed001"
+  }
+ ],
+ "RandomNoise_r2": [
+  {
+   "reason": "timeout",
+   "armed": true,
+   "t_flight": 23.29200000000001,
+   "modes": "4>3",
+   "xtrack_max": 0.34003825211882327,
+   "alt_max": 19.687999999999995,
+   "end_dist_home": 21.576883741124842,
+   "disarmed_in_log": false,
+   "completed": false,
+   "seed": "seed001"
+  }
+ ],
+ "RandomNoise_r3": [
+  {
+   "reason": "timeout",
+   "armed": true,
+   "t_flight": 23.291999999999994,
+   "modes": "4>3",
+   "xtrack_max": 0.3570401647700666,
+   "alt_max": 19.650000000000006,
+   "end_dist_home": 17.367463595904287,
+   "disarmed_in_log": false,
+   "completed": false,
+   "seed": "seed001"
+  }
+ ],
+ "RandomNoise_r4": [
+  {
+   "reason": "timeout",
+   "armed": true,
+   "t_flight": 23.243999999999993,
+   "modes": "4>3",
+   "xtrack_max": 0.4080459025727894,
+   "alt_max": 19.697000000000003,
+   "end_dist_home": 21.387655878263207,
+   "disarmed_in_log": false,
+   "completed": false,
+   "seed": "seed001"
+  }
+ ],
+ "RandomValue_r1": [
+  {
+   "reason": "timeout",
+   "armed": true,
+   "t_flight": 240.468,
+   "modes": "4>3",
+   "xtrack_max": 178.93160952352127,
+   "alt_max": 20.234,
+   "end_dist_home": 312.35425595697825,
+   "disarmed_in_log": false,
+   "completed": false,
+   "seed": "seed001"
+  }
+ ],
+ "RandomValue_r2": [
+  {
+   "reason": "timeout",
+   "armed": true,
+   "t_flight": 240.44400000000002,
+   "modes": "4>3",
+   "xtrack_max": 185.22188128518857,
+   "alt_max": 20.137999999999998,
+   "end_dist_home": 71.44646096502274,
+   "disarmed_in_log": false,
+   "completed": false,
+   "seed": "seed001"
+  }
+ ],
+ "RandomValue_r3": [
+  {
+   "reason": "timeout",
+   "armed": true,
+   "t_flight": 240.46800000000002,
+   "modes": "4>3",
+   "xtrack_max": 179.8674187399182,
+   "alt_max": 20.394,
+   "end_dist_home": 157.1025195738157,
+   "disarmed_in_log": false,
+   "completed": false,
+   "seed": "seed001"
+  }
+ ],
+ "RandomValue_r4": [
+  {
+   "reason": "timeout",
+   "armed": true,
+   "t_flight": 240.48,
+   "modes": "4>3",
+   "xtrack_max": 184.82570862863534,
+   "alt_max": 20.183,
+   "end_dist_home": 49.78363582254174,
+   "disarmed_in_log": false,
+   "completed": false,
+   "seed": "seed001"
+  }
+ ]
+}

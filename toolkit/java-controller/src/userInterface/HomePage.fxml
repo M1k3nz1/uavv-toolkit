@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="apHomePage" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="700.0" minWidth="850.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="userInterface.HomePageController" styleClass="page">
+   <children>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <children>
+            <Text fx:id="tlTitle" strokeType="OUTSIDE" strokeWidth="0.0" text="UAV Fault Injection Tool" styleClass="t-h1">
+            </Text>
+         </children>
+      </HBox>
+      <VBox alignment="CENTER" layoutY="29.0" minHeight="559.0" minWidth="850.0" prefHeight="559.0" prefWidth="850.0" spacing="30.0" AnchorPane.bottomAnchor="112.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="29.0">
+         <children>
+            <Text styleClass="t-sub" text="Plan, run and analyse repeatable fault-injection campaigns on PX4 UAV missions" />
+            <Button fx:id="btnTestCampaign" mnemonicParsing="false" onMouseClicked="#onClickTestBtn" text="Run Test Campaign" minWidth="110.0" styleClass="btn-primary">
+               <padding>
+                  <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+               </padding>
+            </Button>
+            
+            <HBox alignment="CENTER" prefHeight="51.0" prefWidth="810.0" spacing="10.0">
+               <children>
+                  <Button fx:id="btnExecute" mnemonicParsing="false" onMouseClicked="#onClickExecuteBtn" text="Execute Campaign" minWidth="110.0" styleClass="btn-primary">
+                     <padding>
+                        <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+                     </padding>
+                  </Button>
+               </children>
+               
+            </HBox>
+            <Button fx:id="btnAddCampaign" mnemonicParsing="false" onMouseClicked="#onClickSearchBtn" text="Add Campaign" minWidth="110.0" styleClass="btn-primary">
+               <padding>
+                  <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+               </padding>
+            </Button>
+            <HBox alignment="CENTER" spacing="16.0" maxWidth="820.0"><children><VBox alignment="TOP_LEFT" spacing="6.0" prefWidth="190.0" maxWidth="190.0" styleClass="card, feat"><children><Text styleClass="t-label" text="21 fault types" /><Text styleClass="t-hint" wrappingWidth="158.0" text="GPS, IMU, gyroscope and accelerometer faults" /></children></VBox><VBox alignment="TOP_LEFT" spacing="6.0" prefWidth="190.0" maxWidth="190.0" styleClass="card, feat"><children><Text styleClass="t-label" text="Custom faults" /><Text styleClass="t-hint" wrappingWidth="158.0" text="Write your own fault as a Python file" /></children></VBox><VBox alignment="TOP_LEFT" spacing="6.0" prefWidth="190.0" maxWidth="190.0" styleClass="card, feat"><children><Text styleClass="t-label" text="Seeded campaigns" /><Text styleClass="t-hint" wrappingWidth="158.0" text="Repeatable runs scored against ground truth" /></children></VBox><VBox alignment="TOP_LEFT" spacing="6.0" prefWidth="190.0" maxWidth="190.0" styleClass="card, feat"><children><Text styleClass="t-label" text="U-space tracking" /><Text styleClass="t-hint" wrappingWidth="158.0" text="Traffic positions logged next to injected values" /></children></VBox></children></HBox>
+         </children>
+         <padding>
+            <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+         </padding>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </VBox>
+      <HBox alignment="CENTER" layoutX="278.0" layoutY="620.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="100.0" minWidth="850.0" prefWidth="850.0" spacing="70.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <children>
+            <ImageView fx:id="ivIconLeft" fitHeight="100.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../img/blank.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="ivIconCenter" fitHeight="100.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../img/blank.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="ivIconRight" fitHeight="100.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../img/blank.png" />
+               </image>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+            </ImageView>
+         </children>
+         <padding>
+            <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+         </padding>
+      </HBox>
+   </children>
+</AnchorPane>

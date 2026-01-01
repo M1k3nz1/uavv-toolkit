@@ -1,0 +1,10 @@
+RandomValue mValue_r1/seed001 lenA=109 lenB=104 shared_values=2 best_shift=-1 match_frac=0.00 n=0
+RandomValue mValue_r2/seed001 lenA=109 lenB=112 shared_values=0 best_shift=-1 match_frac=0.00 n=0
+RandomValue mValue_r3/seed001 lenA=109 lenB=133 shared_values=2 best_shift=-1 match_frac=0.00 n=0
+RandomValue mValue_r4/seed001 lenA=109 lenB=118 shared_values=2 best_shift=-1 match_frac=0.00 n=0
+RandomValue ndomValue/seed002 lenA=109 lenB=80 shared_values=1 best_shift=-1 match_frac=0.00 n=0
+FixedNoise dNoise_r1/seed001 lenA=30 lenB=29 shared_values=0 best_shift=-1 match_frac=0.00 n=0
+FixedNoise dNoise_r2/seed001 lenA=30 lenB=29 shared_values=0 best_shift=-1 match_frac=0.00 n=0
+FixedNoise dNoise_r3/seed001 lenA=30 lenB=30 shared_values=1 best_shift=-1 match_frac=0.00 n=0
+FixedNoise dNoise_r4/seed001 lenA=30 lenB=24 shared_values=0 best_shift=-1 match_frac=0.00 n=0
+FixedNoise ixedNoise/seed002 lenA=30 lenB=25 shared_values=0 best_shift=-1 match_frac=0.00 n=0

@@ -1,0 +1,5 @@
+gold n=10 completed=10/10 wilson=[0.72,1.00] xtrack=0.5 sd=0.0 ci+-0.0 end_dist=0.1 sd=0.0 p=nan
+FixedNoise n=10 completed=10/10 wilson=[0.72,1.00] xtrack=56.1 sd=0.0 ci+-0.0 end_dist=0.1 sd=0.0 p=0.0001
+ZigZag n=10 completed=10/10 wilson=[0.72,1.00] xtrack=33.7 sd=0.1 ci+-0.1 end_dist=0.1 sd=0.0 p=0.0001
+FreezeValue n=10 completed=7/10 wilson=[0.40,0.89] xtrack=0.6 sd=0.2 ci+-0.1 end_dist=43.3 sd=70.6 p=0.0351
+RandomValue n=10 completed=0/10 wilson=[-0.00,0.28] xtrack=249.3 sd=149.0 ci+-106.6 end_dist=141.8 sd=84.7 p=0.0001

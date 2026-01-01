@@ -1,0 +1,8 @@
+DroneIP = 127.0.0.1:14540
+MissionPath = /dev/null
+InjectionLocation = [40.23000000, -8.4000000000]
+InjectionRadius = 78
+FaultType = Software
+FaultTarget = GPS
+FaultSubType = RandomValue
+Values = [0, 0, 0, 0]

@@ -1,0 +1,11 @@
+cfg n | sep<25m at lag0 / at any lag in +-60s, per lateral offset d=20,60,100,200
+DelayValue 10 | 10/10 0/0 0/0 0/0
+FixedNoise 10 | 10/10 6/10 0/0 0/0
+FixedValue 10 | 10/10 0/0 0/0 0/0
+FreezeValue 10 | 10/10 0/0 0/0 0/0
+MaxAltitude 10 | 10/10 0/0 0/0 0/0
+MinLatitude 10 | 10/10 0/0 0/0 0/0
+RandomNoise 10 | 10/10 0/0 0/0 0/0
+RandomValue 10 | 10/10 5/7 1/1 0/0
+ZigZag 10 | 10/10 0/0 0/0 0/0
+gold 10 | 10/10 0/0 0/0 0/0

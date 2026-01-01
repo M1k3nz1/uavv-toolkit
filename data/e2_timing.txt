@@ -1,0 +1,10 @@
+gold ATTITUDE n=150571 mean=10.01 median=11.00 p99=13.00 ms
+gold GLOBAL_POSITION_INT n=75283 mean=20.02 median=20.00 p99=21.00 ms
+FixedNoise ATTITUDE n=173968 mean=10.00 median=11.00 p99=12.00 ms
+FixedNoise GLOBAL_POSITION_INT n=86982 mean=20.00 median=20.00 p99=21.00 ms
+RandomNoise ATTITUDE n=43497 mean=10.00 median=9.00 p99=12.00 ms
+RandomNoise GLOBAL_POSITION_INT n=21742 mean=20.00 median=20.00 p99=21.00 ms
+ZigZag ATTITUDE n=179061 mean=10.00 median=10.00 p99=13.00 ms
+ZigZag GLOBAL_POSITION_INT n=89528 mean=20.00 median=20.00 p99=21.00 ms
+DelayValue ATTITUDE n=54148 mean=48.04 median=11.00 p99=1012.00 ms
+DelayValue GLOBAL_POSITION_INT n=27068 mean=96.10 median=20.00 p99=1020.00 ms

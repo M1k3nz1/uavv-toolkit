@@ -1,0 +1,17 @@
+cfg n armed compl[Wilson95] xtrack m/sd/ci | end_dist m/sd | alt_max m | tflight m | p_x p_e
+AR_A20.0_f10_r1 1 1 1[0.21-1.00] 14.6/0.0/nan | 2.1/0.0 | 22.4 | 204 | nan nan
+AR_A20.0_f10_r2 1 1 1[0.21-1.00] 13.5/0.0/nan | 1.1/0.0 | 22.6 | 231 | nan nan
+AR_A20.0_f10_r3 1 1 0[0.00-0.79] 13.5/0.0/nan | 0.5/0.0 | 22.2 | 240 | nan nan
+AR_A20.0_f10_r4 1 1 0[0.00-0.79] 265.1/0.0/nan | 265.9/0.0 | 21.8 | 240 | nan nan
+FixedNoise_r1 1 1 1[0.21-1.00] 60.0/0.0/nan | 0.2/0.0 | 20.1 | 161 | nan nan
+FixedNoise_r2 1 1 1[0.21-1.00] 59.8/0.0/nan | 0.2/0.0 | 20.1 | 160 | nan nan
+FixedNoise_r3 1 1 1[0.21-1.00] 60.0/0.0/nan | 0.2/0.0 | 20.1 | 161 | nan nan
+FixedNoise_r4 1 1 1[0.21-1.00] 60.2/0.0/nan | 0.2/0.0 | 20.0 | 141 | nan nan
+RandomNoise_r1 1 1 0[0.00-0.79] 0.4/0.0/nan | 21.8/0.0 | 19.7 | 23 | nan nan
+RandomNoise_r2 1 1 0[0.00-0.79] 0.3/0.0/nan | 21.6/0.0 | 19.7 | 23 | nan nan
+RandomNoise_r3 1 1 0[0.00-0.79] 0.4/0.0/nan | 17.4/0.0 | 19.7 | 23 | nan nan
+RandomNoise_r4 1 1 0[0.00-0.79] 0.4/0.0/nan | 21.4/0.0 | 19.7 | 23 | nan nan
+RandomValue_r1 1 1 0[0.00-0.79] 178.9/0.0/nan | 312.4/0.0 | 20.2 | 240 | nan nan
+RandomValue_r2 1 1 0[0.00-0.79] 185.2/0.0/nan | 71.4/0.0 | 20.1 | 240 | nan nan
+RandomValue_r3 1 1 0[0.00-0.79] 179.9/0.0/nan | 157.1/0.0 | 20.4 | 240 | nan nan
+RandomValue_r4 1 1 0[0.00-0.79] 184.8/0.0/nan | 49.8/0.0 | 20.2 | 240 | nan nan

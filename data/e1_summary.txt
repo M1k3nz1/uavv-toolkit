@@ -1,0 +1,23 @@
+FixedNoise FixedNoiseseed001 reason=disarmed xtrack_max=44.6 end_dist=0.2
+FixedNoise FixedNoise_r1seed001 reason=disarmed xtrack_max=44.7 end_dist=0.2 n_active=29 abs_equal=0.00 delta_equal=0.00
+FixedNoise FixedNoise_r2seed001 reason=disarmed xtrack_max=44.8 end_dist=0.2 n_active=29 abs_equal=0.00 delta_equal=0.00
+FixedNoise FixedNoise_r3seed001 reason=disarmed xtrack_max=44.9 end_dist=0.2 n_active=30 abs_equal=0.00 delta_equal=0.03
+FixedNoise FixedNoise_r4seed001 reason=disarmed xtrack_max=44.7 end_dist=0.2 n_active=24 abs_equal=0.00 delta_equal=0.00
+FixedNoise FixedNoiseseed002 reason=disarmed xtrack_max=44.6 end_dist=0.2 n_active=25 abs_equal=0.00 delta_equal=0.00
+RandomValue RandomValueseed001 reason=timeout xtrack_max=41.5 end_dist=94.9
+RandomValue RandomValue_r1seed001 reason=timeout xtrack_max=43.5 end_dist=313.9 n_active=50 abs_equal=0.00 delta_equal=0.04
+RandomValue RandomValue_r2seed001 reason=timeout xtrack_max=42.1 end_dist=73.5 n_active=50 abs_equal=0.00 delta_equal=0.04
+RandomValue RandomValue_r3seed001 reason=timeout xtrack_max=43.0 end_dist=155.2 n_active=50 abs_equal=0.00 delta_equal=0.02
+RandomValue RandomValue_r4seed001 reason=timeout xtrack_max=41.1 end_dist=51.4 n_active=50 abs_equal=0.00 delta_equal=0.06
+RandomValue RandomValueseed002 reason=timeout xtrack_max=52.0 end_dist=455.3 n_active=50 abs_equal=0.00 delta_equal=0.00
+RandomNoise RandomNoiseseed001 reason=timeout xtrack_max=0.3 end_dist=22.6
+RandomNoise RandomNoise_r1seed001 reason=timeout xtrack_max=0.4 end_dist=22.4 n_active=1 abs_equal=0.00 delta_equal=0.00
+RandomNoise RandomNoise_r2seed001 reason=timeout xtrack_max=0.4 end_dist=22.6 n_active=1 abs_equal=0.00 delta_equal=0.00
+RandomNoise RandomNoise_r3seed001 reason=timeout xtrack_max=0.4 end_dist=22.3 n_active=1 abs_equal=0.00 delta_equal=0.00
+RandomNoise RandomNoise_r4seed001 reason=timeout xtrack_max=0.4 end_dist=22.9 n_active=1 abs_equal=0.00 delta_equal=0.00
+RandomNoise RandomNoiseseed002 reason=timeout xtrack_max=0.4 end_dist=22.3 n_active=1 abs_equal=0.00 delta_equal=0.00
+AR_A20.0_f10 AR_A20.0_f10seed001 reason=timeout xtrack_max=57.8 end_dist=134.3
+AR_A20.0_f10 AR_A20.0_f10_r1seed001 reason=disarmed xtrack_max=14.6 end_dist=2.1
+AR_A20.0_f10 AR_A20.0_f10_r2seed001 reason=disarmed xtrack_max=13.7 end_dist=1.1
+AR_A20.0_f10 AR_A20.0_f10_r3seed001 reason=timeout xtrack_max=13.5 end_dist=0.6
+AR_A20.0_f10 AR_A20.0_f10_r4seed001 reason=timeout xtrack_max=265.1 end_dist=265.9

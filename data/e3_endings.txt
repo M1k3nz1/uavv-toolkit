@@ -1,0 +1,200 @@
+gold seed001 reason disarmed t 198
+  events []
+  modes [(45, (29, 50593792)), (65, (157, 50593792)), (66, (157, 67371008)), (195, (29, 67371008))]
+  statustext [(65, 'Armed by external command\t'), (65, 'Takeoff to 20.0 meters above home\t'), (67, 'Takeoff detected\t'), (193, 'Landing detected\t'), (193, 'Mission finished, landed\t'), (195, 'Disarmed by landing\t')]
+gold seed002 reason disarmed t 202
+  events []
+  modes [(48, (29, 50593792)), (67, (157, 50593792)), (68, (157, 67371008)), (199, (29, 67371008))]
+  statustext [(67, 'Armed by external command\t'), (67, 'Takeoff to 20.0 meters above home\t'), (69, 'Takeoff detected\t'), (196, 'Landing detected\t'), (196, 'Mission finished, landed\t'), (198, 'Disarmed by landing\t')]
+gold seed003 reason disarmed t 195
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (192, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (190, 'Landing detected\t'), (190, 'Mission finished, landed\t'), (192, 'Disarmed by landing\t')]
+gold seed004 reason disarmed t 195
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (192, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (190, 'Landing detected\t'), (190, 'Mission finished, landed\t'), (192, 'Disarmed by landing\t')]
+gold seed005 reason disarmed t 195
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (192, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (190, 'Mission finished, landed\t'), (190, 'Landing detected\t'), (192, 'Disarmed by landing\t')]
+gold seed006 reason disarmed t 195
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (192, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (190, 'Landing detected\t'), (190, 'Mission finished, landed\t'), (192, 'Disarmed by landing\t')]
+gold seed007 reason disarmed t 195
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (192, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (190, 'Landing detected\t'), (190, 'Mission finished, landed\t'), (192, 'Disarmed by landing\t')]
+gold seed008 reason disarmed t 195
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (192, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (190, 'Landing detected\t'), (190, 'Mission finished, landed\t'), (192, 'Disarmed by landing\t')]
+gold seed009 reason disarmed t 195
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (192, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (190, 'Landing detected\t'), (190, 'Mission finished, landed\t'), (192, 'Disarmed by landing\t')]
+gold seed010 reason disarmed t 195
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (192, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (190, 'Landing detected\t'), (190, 'Mission finished, landed\t'), (192, 'Disarmed by landing\t')]
+RandomNoise seed001 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+RandomNoise seed002 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+RandomNoise seed003 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+RandomNoise seed004 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+RandomNoise seed005 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+RandomNoise seed006 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+RandomNoise seed007 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+RandomNoise seed008 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+RandomNoise seed009 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+RandomNoise seed010 reason timeout t 309
+  events []
+  modes [(45, (29, 50593792)), (65, (157, 50593792)), (66, (157, 67371008))]
+  statustext [(65, 'Armed by external command\t'), (65, 'Takeoff to 20.0 meters above home\t'), (67, 'Takeoff detected\t')]
+DelayValue seed001 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (63, (157, 50593792)), (64, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (63, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+DelayValue seed002 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+DelayValue seed003 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+DelayValue seed004 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+DelayValue seed005 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+DelayValue seed006 reason timeout t 308
+  events []
+  modes [(45, (29, 50593792)), (65, (157, 50593792)), (66, (157, 67371008))]
+  statustext [(65, 'Armed by external command\t'), (65, 'Takeoff to 20.0 meters above home\t'), (67, 'Takeoff detected\t')]
+DelayValue seed007 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+DelayValue seed008 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+DelayValue seed009 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+DelayValue seed010 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t')]
+RandomValue seed001 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (99, 'Critical battery level!, landing advised\t')]
+RandomValue seed002 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (100, 'Critical battery level!, landing advised\t')]
+RandomValue seed003 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (100, 'Critical battery level!, landing advised\t')]
+RandomValue seed004 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (100, 'Critical battery level!, landing advised\t')]
+RandomValue seed005 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (99, 'Critical battery level!, landing advised\t')]
+RandomValue seed006 reason timeout t 306
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (100, 'Critical battery level!, landing advised\t')]
+RandomValue seed007 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (99, 'Critical battery level!, landing advised\t')]
+RandomValue seed008 reason timeout t 305
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (99, 'Critical battery level!, landing advised\t')]
+RandomValue seed009 reason timeout t 306
+  events []
+  modes [(43, (29, 50593792)), (63, (157, 50593792)), (64, (157, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (63, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (100, 'Critical battery level!, landing advised\t')]
+RandomValue seed010 reason timeout t 308
+  events []
+  modes [(45, (29, 50593792)), (65, (157, 50593792)), (66, (157, 67371008))]
+  statustext [(65, 'Armed by external command\t'), (65, 'Takeoff to 20.0 meters above home\t'), (67, 'Takeoff detected\t'), (103, 'Critical battery level!, landing advised\t')]
+FixedNoise seed001 reason disarmed t 226
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (223, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (221, 'Landing detected\t'), (221, 'Mission finished, landed\t'), (223, 'Disarmed by landing\t')]
+FixedNoise seed002 reason disarmed t 207
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (204, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (202, 'Landing detected\t'), (202, 'Mission finished, landed\t'), (204, 'Disarmed by landing\t')]
+FixedNoise seed003 reason disarmed t 207
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (204, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (201, 'Landing detected\t'), (201, 'Mission finished, landed\t'), (203, 'Disarmed by landing\t')]
+FixedNoise seed004 reason disarmed t 207
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (204, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (201, 'Landing detected\t'), (201, 'Mission finished, landed\t'), (203, 'Disarmed by landing\t')]
+FixedNoise seed005 reason disarmed t 226
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (223, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (221, 'Landing detected\t'), (221, 'Mission finished, landed\t'), (223, 'Disarmed by landing\t')]
+FixedNoise seed006 reason disarmed t 226
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (223, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (220, 'Landing detected\t'), (221, 'Mission finished, landed\t'), (223, 'Disarmed by landing\t')]
+FixedNoise seed007 reason disarmed t 226
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (223, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (221, 'Landing detected\t'), (221, 'Mission finished, landed\t'), (223, 'Disarmed by landing\t')]
+FixedNoise seed008 reason disarmed t 226
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (223, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (221, 'Landing detected\t'), (221, 'Mission finished, landed\t'), (223, 'Disarmed by landing\t')]
+FixedNoise seed009 reason disarmed t 207
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (204, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (202, 'Landing detected\t'), (202, 'Mission finished, landed\t'), (204, 'Disarmed by landing\t')]
+FixedNoise seed010 reason disarmed t 226
+  events []
+  modes [(42, (29, 50593792)), (62, (157, 50593792)), (63, (157, 67371008)), (223, (29, 67371008))]
+  statustext [(62, 'Armed by external command\t'), (62, 'Takeoff to 20.0 meters above home\t'), (64, 'Takeoff detected\t'), (221, 'Mission finished, landed\t'), (221, 'Landing detected\t'), (223, 'Disarmed by landing\t')]
